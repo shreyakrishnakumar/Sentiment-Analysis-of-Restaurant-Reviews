@@ -1,1 +1,8 @@
 # Sentiment-Analysis-of-Restaurant-Reviews
+PROJECT PROBLEM STATEMENT: 
+Restaurant data is valuable information for both consumers and restaurants. Consumers can use reviews to assess the quality of a restaurant before they visit, and restaurants can use reviews to identify areas for improvement. The sentiment analysis of a restaurant review is the task of identifying yourself and the emotions of the review (positive, negative, or neutral). This can be done with machine learning models trained on a data set of labeled reviews.
+
+PROJECT AGENDA:
+The project agenda for "Sentiment Analysis of Restaurant Reviews" is a grounded plan that outlines the key levels and activities to be done during the life cycle of the mission It begins with the creation of plans and series of statistics. Assignments include version development, such as gaining in-depth knowledge of models, instrument selection and implementation, model evaluation and best-tuning to check their overall performance, while real-time analysis and deployment allow for realistic experimentation. Visualization and reporting present findings and insights to stakeholders. Feedback and Iteration The department promotes nonstop improvement, which leads to mission completion with documentation, knowledge transfer, and comprehensive enterprise presentation to stakeholders This agenda provides a clean roadmap for executing hit assignments, ensuring goals are executions
+
+The project predicts whether a negative review or positive review is given by the customers. I have used different machine learning algorithms like Random Forests, SVM, Logistic Regression, Recurrent Neural Network, Convoultional Neural Network to generate or predict the sentiment. 
